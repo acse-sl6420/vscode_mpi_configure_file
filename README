@@ -1,0 +1,5 @@
+1. 安装code runner插件
+2. 点击code runner 设置图标->点击extension settings->选择excutor map中的edit in settings.json
+3. 将.vscode中的settings.json内容复制到里面
+4. 更改-L和-I中的路径，保存退出
+5. 更改.vscode中c_cpp_properties.json和tasks.json路径即可
